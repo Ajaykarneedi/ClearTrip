@@ -18,7 +18,7 @@ class Student:                                     # Outer Class
 
         def show(self):
             print(self.brand, self.cpu, self.ram)
-s1 = Student('Ajay',2)
+s1 = Student('Vijay',2)
 s2 = Student('Kiran',3)
 
 #print(s1.name , s2.roll)
